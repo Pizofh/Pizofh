@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Pizofh — DevOps and Platform Engineering</title>
+  <desc id="desc">Navy and blue profile banner with a connected geometric motif and the themes Linux, automation, and observability.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#09182d"/><stop offset="1" stop-color="#123554"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#2f84ee"/><stop offset="1" stop-color="#5fe0df"/></linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#82b8e4" stroke-opacity=".06"/></pattern>
+  </defs>
+  <rect width="1200" height="300" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="16" fill="url(#grid)"/>
+  <rect x="48" y="52" width="4" height="196" rx="2" fill="url(#line)"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="78" y="89" fill="#79d5eb" font-size="15" font-weight="700" letter-spacing="3">BUILD · SHIP · OBSERVE</text>
+    <text x="75" y="158" fill="#f3f8ff" font-size="68" font-weight="700" letter-spacing="-2">Pizofh</text>
+    <text x="78" y="201" fill="#d1e2f2" font-size="26">DevOps &amp; Platform Engineering</text>
+    <text x="78" y="237" fill="#92b7d3" font-size="17" letter-spacing=".8">LINUX  /  AUTOMATION  /  OBSERVABILITY</text>
+  </g>
+  <g fill="none" stroke="url(#line)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M878 92H967V155H1051M967 155V218H878" opacity=".8"/>
+    <path d="M1051 155H1110V92" opacity=".35"/>
+    <path d="M806 155H878" opacity=".45"/>
+  </g>
+  <g fill="#102c45" stroke="#428abf" stroke-width="1.5">
+    <rect x="844" y="67" width="68" height="50" rx="10"/>
+    <rect x="1017" y="130" width="68" height="50" rx="10"/>
+    <rect x="844" y="193" width="68" height="50" rx="10"/>
+  </g>
+  <g stroke="#7bddf0" stroke-width="2.5" stroke-linecap="round" fill="none">
+    <path d="m863 87 7 5-7 5m13 1h11"/>
+    <path d="M1036 164v-9m8 9v-20m8 20v-14m8 14v-26"/>
+    <path d="m863 218 9 8 18-18"/>
+  </g>
+  <circle cx="967" cy="155" r="5" fill="#73dce4"/>
+  <circle cx="1110" cy="92" r="3" fill="#498bac"/>
+  <circle cx="806" cy="155" r="3" fill="#498bac"/>
+</svg>
