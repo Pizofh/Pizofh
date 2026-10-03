@@ -43,3 +43,7 @@ Based in **Bogotá, Colombia** · Spanish native · English B2, Cambridge FCE
 Interested in **DevOps, Platform Engineering, Cloud Operations, and reliable software delivery**.
 
 [Let's connect →](https://www.linkedin.com/in/steve-garnica/)
+
+<p align="center">
+  <img src="./assets/ascii-art.png" width="240" alt="Abstract ASCII art in cyan, pink, yellow and blue" />
+</p>
