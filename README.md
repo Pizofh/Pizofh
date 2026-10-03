@@ -40,7 +40,7 @@ I build backend services, automate deployments, and work with Linux systems. My 
 
 Based in **Bogotá, Colombia** · Spanish native · English B2, Cambridge FCE
 
-Interested in **DevOps, Platform Engineering, Cloud Operations, and reliable software delivery**.
+Interested in **DevOps, Site Reilabilty Engineering, Troubleshooting, Platform Engineering, Cloud Operations, and reliable software delivery**.
 
 [Let's connect →](https://www.linkedin.com/in/steve-garnica/)
 
